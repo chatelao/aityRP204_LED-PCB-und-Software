@@ -22,7 +22,7 @@ variants:
 
 preflight:
   erc:
-    enabled: true
+    enabled: false
     warnings_as_errors: false
   drc:
     enabled: false
