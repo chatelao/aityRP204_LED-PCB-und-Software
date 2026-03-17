@@ -1,0 +1,16 @@
+{
+    "name": "pico-ws2811-demo",
+    "version": "0.0.0",
+    "description": "A minimal sketch to drive 256 WS2811 LEDs on GPIO03 of a Raspberry Pi Pico",
+    "files": [
+        "main.ts"
+    ],
+    "dependencies": {
+        "core": "*",
+        "light": "*"
+    },
+    "targetVersions": {
+        "target": "maker"
+    },
+    "preferredEditor": "tsprj"
+}
