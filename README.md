@@ -8,7 +8,7 @@ This project provides a simple 4-LED board powered by a Seeed Studio XIAO RP2040
 - **NeoPixel Data Pin**: Connected to **D10** (which corresponds to **GP3** on the RP2040).
 - **LED Matrix**: Configured for a 16x16 matrix (256 LEDs) in the provided examples.
 
-<img width="1232" height="864" alt="image" src="https://github.com/user-attachments/assets/f364a9d5-ba34-4fb9-b765-a625a0828113" />
+<img width="616" height="432" alt="image" src="https://github.com/user-attachments/assets/f364a9d5-ba34-4fb9-b765-a625a0828113" />
 
 
 ## Preparing the XIAO RP2040
