@@ -10,6 +10,10 @@ Dieses Projekt bietet ein einfaches 4-LED-Board an, das mit einem Seeed Studio X
 
 <img width="616" height="432" alt="image" src="https://github.com/user-attachments/assets/f364a9d5-ba34-4fb9-b765-a625a0828113" />
 
+## Lektionen
+
+1. [Lektion 1: Erste Schritte](./lektion-1/Lektionserläuterung.md)
+2. [Lektion 2: In Vorbereitung](./lektion-2/README.md)
 
 ## Vorbereitung des XIAO RP2040
 
