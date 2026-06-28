@@ -10,6 +10,7 @@ Verbinde deinen Arcade-Joystick gemäss der folgenden Tabelle mit dem XIAO RP204
 
 <img width="313" height="216" alt="image" src="https://github.com/user-attachments/assets/f364a9d5-ba34-4fb9-b765-a625a0828113" />
 
+#### Details
 
 
 | Arcade-Eingang | XIAO Pin | GP-Nummer |
