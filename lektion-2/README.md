@@ -13,13 +13,13 @@ Verbinde deinen Arcade-Joystick gemäss der folgenden Tabelle mit dem XIAO RP204
 #### Details
 
 
-| Arcade-Eingang | XIAO Pin | GP-Nummer |
-| :--- | :---: | :---: |
-| Joystick Oben | **D0** | GP26 |
-| Joystick Unten | **D1** | GP27 |
-| Joystick Links | **D4** | GP06 |
-| Joystick Rechts | **D5** | GP07 |
-| Gemeinsame Masse | **GND** | GND |
+| Arcade-Eingang   | XIAO Pin | GP-Nummer |
+| :---             |  :---:   |   :---:   |
+| Joystick Links   | **D0**   |    GP26   |
+| Joystick Rechts  | **D1**   |    GP27   |
+| Joystick Oben    | **D4**   |    GP06   |
+| Joystick Unten   | **D5**   |    GP07   |
+| Gemeinsame Masse | **GND**  |    GND    |
 
 ---
 
