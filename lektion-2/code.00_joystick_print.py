@@ -2,6 +2,19 @@ import board
 import digitalio
 import time
 
+#  Arcade Joystick Pinout:
+#
+#        XIAO RP2040                        Joystick (5-Pin)
+#      +--------------+                    +----------------+
+#      | [ ] D0  -----+--------------------| (2) Rechts     |
+#      | [ ] D1  -----+--------------------| (1) Links      |
+#      | [ ] D2  -----+--------------------| (3) Oben       |
+#      | [ ] D3  -----+--------------------| (4) Unten      |
+#      | [ ] D4       |                    | (5) Masse (GND)|
+#      | [ ] D5       |                    +--------|-------+
+#      | [ ] GND -----+-----------------------------+
+#      +--------------+
+
 # Pin-Konfiguration für den Arcade-Controller
 # Wir verwenden interne Pull-Up Widerstände, daher ist der Wert 'False', wenn gedrückt.
 # Mapping: Oben=D2, Unten=D3, Links=D1, Rechts=D0
